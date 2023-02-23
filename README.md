@@ -1,9 +1,10 @@
 ### Hi there 👋
+Perkenalkan nama saya **Sany Santiastry**.
 
+Saya seorang mahasiswa di Universitas Muhammadiyah Sukabumi.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/sany-santiastry-146a2a20b/)ku ya.
 <!--
-**sanysantiastry/sanysantiastry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
